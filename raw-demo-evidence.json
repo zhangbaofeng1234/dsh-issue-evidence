@@ -1,0 +1,31 @@
+{
+  "desktop": {
+    "baseURI": "dsh-app://app/",
+    "protocol": "dsh-app:",
+    "altSpans": 24,
+    "altTexts": [
+      "交付物审核状态流转图",
+      "交付驾驶舱",
+      "交付物矩阵 + 审核详情抽屉",
+      "待我审核",
+      "报告中心 · 季报生成"
+    ],
+    "localImg": [],
+    "requests": []
+  },
+  "web": {
+    "baseURI": "http://127.0.0.1:19387/",
+    "protocol": "http:",
+    "altSpans": 0,
+    "altTexts": [],
+    "localImg": [
+      {
+        "src": "http://127.0.0.1:19387/sidebar/file?sessionId=session-e3a0781e-4b7d-4fbd-9231-a0151a833422&path=D%3A%5CProject",
+        "w": 1200
+      }
+    ],
+    "requests": [
+      "RESP 200 http://127.0.0.1:19387/sidebar/file?sessionId=session-e3a0781e-4b7d-4fbd-9231-a0151a833422&path=D:\\Project\\glj-delivery\\"
+    ]
+  }
+}

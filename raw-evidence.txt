@@ -1,0 +1,27 @@
+desktop: 文档行不可见（树可能未展开 docs）
+desktop: {"baseURI":"dsh-app://app/","protocol":"dsh-app:","altSpans":24,"imgTotal":3,"localImgTotal":0,"localImgLoaded":0,"sampleLocal":[],"requests":[]}
+web: 文档行不可见（树可能未展开 docs）
+web: {"baseURI":"http://127.0.0.1:19387/","protocol":"http:","altSpans":0,"imgTotal":0,"localImgTotal":0,"localImgLoaded":0,"sampleLocal":[],"requests":[]}
+
+{
+  "desktop": {
+    "baseURI": "dsh-app://app/",
+    "protocol": "dsh-app:",
+    "altSpans": 24,
+    "imgTotal": 3,
+    "localImgTotal": 0,
+    "localImgLoaded": 0,
+    "sampleLocal": [],
+    "requests": []
+  },
+  "web": {
+    "baseURI": "http://127.0.0.1:19387/",
+    "protocol": "http:",
+    "altSpans": 0,
+    "imgTotal": 0,
+    "localImgTotal": 0,
+    "localImgLoaded": 0,
+    "sampleLocal": [],
+    "requests": []
+  }
+}

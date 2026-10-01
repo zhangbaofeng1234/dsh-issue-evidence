@@ -1,0 +1,30 @@
+{
+  "baseURI": "http://127.0.0.1:19387/",
+  "protocol": "http:",
+  "altSpans": 0,
+  "imgTotal": 24,
+  "localImgTotal": 24,
+  "localImgLoaded": 24,
+  "sampleLocal": [
+    {
+      "src": "http://127.0.0.1:19387/sidebar/file?sessionId=session-e3a0781e-4b7d-4fbd-9231-a0151a833422&path=D%3A%5CProject%5Cglj-delivery%5Cdocs%5Cmocku",
+      "w": 3400
+    },
+    {
+      "src": "http://127.0.0.1:19387/sidebar/file?sessionId=session-e3a0781e-4b7d-4fbd-9231-a0151a833422&path=D%3A%5CProject%5Cglj-delivery%5Cdocs%5Cmocku",
+      "w": 3360
+    },
+    {
+      "src": "http://127.0.0.1:19387/sidebar/file?sessionId=session-e3a0781e-4b7d-4fbd-9231-a0151a833422&path=D%3A%5CProject%5Cglj-delivery%5Cdocs%5Cmocku",
+      "w": 3360
+    }
+  ],
+  "requests": [
+    "RESP 200 http://127.0.0.1:19387/sidebar/file?sessionId=session-e3a0781e-4b7d-4fbd-9231-a0151a833422&path=D%3A%5CProject%5Cglj-delivery%5Cdocs%5Cmockups%5Cout%5C09-state-machine.png&cwd=D%3A%5CProject%5Cglj-delivery",
+    "RESP 200 http://127.0.0.1:19387/sidebar/file?sessionId=session-e3a0781e-4b7d-4fbd-9231-a0151a833422&path=D%3A%5CProject%5Cglj-delivery%5Cdocs%5Cmockups%5Cout%5C01-dashboard.png&cwd=D%3A%5CProject%5Cglj-delivery",
+    "RESP 200 http://127.0.0.1:19387/sidebar/file?sessionId=session-e3a0781e-4b7d-4fbd-9231-a0151a833422&path=D%3A%5CProject%5Cglj-delivery%5Cdocs%5Cmockups%5Cout%5C02-matrix-drawer.png&cwd=D%3A%5CProject%5Cglj-delivery",
+    "RESP 200 http://127.0.0.1:19387/sidebar/file?sessionId=session-e3a0781e-4b7d-4fbd-9231-a0151a833422&path=D%3A%5CProject%5Cglj-delivery%5Cdocs%5Cmockups%5Cout%5C03-review.png&cwd=D%3A%5CProject%5Cglj-delivery",
+    "RESP 200 http://127.0.0.1:19387/sidebar/file?sessionId=session-e3a0781e-4b7d-4fbd-9231-a0151a833422&path=D%3A%5CProject%5Cglj-delivery%5Cdocs%5Cmockups%5Cout%5C04-report-center.png&cwd=D%3A%5CProject%5Cglj-delivery",
+    "RESP 200 http://127.0.0.1:19387/sidebar/file?sessionId=session-e3a0781e-4b7d-4fbd-9231-a0151a833422&path=D%3A%5CProject%5Cglj-delivery%5Cdocs%5Cmockups%5Cout%5C05-contracts.png&cwd=D%3A%5CProject%5Cglj-delivery"
+  ]
+}

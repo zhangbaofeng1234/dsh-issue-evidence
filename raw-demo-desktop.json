@@ -1,0 +1,10 @@
+{
+  "baseURI": "dsh-app://app/",
+  "protocol": "dsh-app:",
+  "altSpans": 1,
+  "altTexts": [
+    "local-image-probe"
+  ],
+  "localImg": [],
+  "requests": []
+}
